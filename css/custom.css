@@ -6,7 +6,7 @@ body {
 }
 
 a {
-    color: white;
+    color: forestgreen;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
@@ -99,8 +99,8 @@ header .header-content .header-content-inner p {
 }
 
 .intro {
-	color: #fff;
-    background-color: #CEF6D8;
+	color: darkgreen;
+    background-color: white;
     padding: 70px 0;
     text-align: center;
 }
@@ -159,6 +159,10 @@ header .header-content .header-content-inner p {
 .item-3 {
 	background: url('../images/hbs.jpg');
 	}
+
+.item-4 {
+    background: url('../images/cmc.jpg');
+}
 		
 .item-1,
 .item-2,
@@ -173,7 +177,7 @@ header .header-content .header-content-inner p {
 
 .page-footer .contact {
 	padding: 100px 0;
-	background-color: #CEF6D8;
+	background-color: darkgreen;
 	color: #fff;
 	}
 
@@ -206,12 +210,12 @@ header .header-content .header-content-inner p {
 }
 
 .navbar-default .navbar-header .navbar-brand {
-    color: #CEF6D8;
+    color: darkgreen;
 }
 
 .navbar-default .navbar-header .navbar-brand:hover,
 .navbar-default .navbar-header .navbar-brand:focus {
-    color: #eb3812;
+    color: darkgreen;
 }
 
 .navbar-default .nav > li>a,
@@ -221,12 +225,13 @@ header .header-content .header-content-inner p {
 
 .navbar-default .nav > li>a:hover,
 .navbar-default .nav>li>a:focus:hover {
-    color: #CEF6D8;
+    color: darkgreen;
 }
 
 .navbar-default .nav > li.active>a,
 .navbar-default .nav>li.active>a:focus {
-    color: #CEF6D8!important;
+    color: white;
+    font-weight: bold;
     background-color: transparent;
 }
 
@@ -269,12 +274,12 @@ header .header-content .header-content-inner p {
 
     .navbar-default.affix .navbar-header .navbar-brand {
         letter-spacing: 0;
-        color: #CEF6D8;
+        color: darkgreen;
     }
 
     .navbar-default.affix .navbar-header .navbar-brand:hover,
     .navbar-default.affix .navbar-header .navbar-brand:focus {
-        color: #eb3812;
+        color: darkgreen;
     }
 
     .navbar-default.affix .nav > li>a,
@@ -284,7 +289,7 @@ header .header-content .header-content-inner p {
 
     .navbar-default.affix .nav > li>a:hover,
     .navbar-default.affix .nav>li>a:focus:hover {
-        color: #CEF6D8;
+        color: darkgreen;
     }
 }
 
@@ -342,9 +347,9 @@ fieldset[disabled] .btn-default.active {
 }
 
 .btn-primary {
-    border-color: #CEF6D8;
+    border-color: darkgreen;
     color: #fff;
-    background-color: #CEF6D8;
+    background-color: darkgreen;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
@@ -356,9 +361,9 @@ fieldset[disabled] .btn-default.active {
 .btn-primary:active,
 .btn-primary.active,
 .open > .dropdown-toggle.btn-primary {
-    border-color: #CEF6D8;
+    border-color: darkgreen;
     color: #fff;
-    background-color: #CEF6D8;
+    background-color: darkgreen;
 }
 
 .btn-primary:active,
@@ -385,12 +390,12 @@ fieldset[disabled] .btn-primary:active,
 .btn-primary.disabled.active,
 .btn-primary[disabled].active,
 fieldset[disabled] .btn-primary.active {
-    border-color: #CEF6D8;
-    background-color: #CEF6D8;
+    border-color: darkgreen;
+    background-color: darkgreen;
 }
 
 .btn-primary .badge {
-    color: #CEF6D8;
+    color: darkgreen;
     background-color: #fff;
 }
 
@@ -427,11 +432,11 @@ img::-moz-selection {
 }
 
 .text-primary {
-    color: #CEF6D8;
+    color: darkgreen;
 }
 
 .bg-primary {
-    background-color: #CEF6D8;
+    background-color: darkgreen;
 }
 
 /* Full-width inputs */
