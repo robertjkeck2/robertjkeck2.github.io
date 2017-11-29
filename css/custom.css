@@ -6,7 +6,7 @@ body {
 }
 
 a {
-    color: yellowgreen;
+    color: white;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
@@ -100,7 +100,7 @@ header .header-content .header-content-inner p {
 
 .intro {
 	color: #fff;
-    background-color: yellowgreen;
+    background-color: #CEF6D8;
     padding: 70px 0;
     text-align: center;
 }
@@ -173,7 +173,7 @@ header .header-content .header-content-inner p {
 
 .page-footer .contact {
 	padding: 100px 0;
-	background-color: yellowgreen;
+	background-color: #CEF6D8;
 	color: #fff;
 	}
 
@@ -206,7 +206,7 @@ header .header-content .header-content-inner p {
 }
 
 .navbar-default .navbar-header .navbar-brand {
-    color: yellowgreen;
+    color: #CEF6D8;
 }
 
 .navbar-default .navbar-header .navbar-brand:hover,
@@ -221,12 +221,12 @@ header .header-content .header-content-inner p {
 
 .navbar-default .nav > li>a:hover,
 .navbar-default .nav>li>a:focus:hover {
-    color: yellowgreen;
+    color: #CEF6D8;
 }
 
 .navbar-default .nav > li.active>a,
 .navbar-default .nav>li.active>a:focus {
-    color: yellowgreen!important;
+    color: #CEF6D8!important;
     background-color: transparent;
 }
 
@@ -269,7 +269,7 @@ header .header-content .header-content-inner p {
 
     .navbar-default.affix .navbar-header .navbar-brand {
         letter-spacing: 0;
-        color: yellowgreen;
+        color: #CEF6D8;
     }
 
     .navbar-default.affix .navbar-header .navbar-brand:hover,
@@ -284,7 +284,7 @@ header .header-content .header-content-inner p {
 
     .navbar-default.affix .nav > li>a:hover,
     .navbar-default.affix .nav>li>a:focus:hover {
-        color: yellowgreen;
+        color: #CEF6D8;
     }
 }
 
@@ -342,9 +342,9 @@ fieldset[disabled] .btn-default.active {
 }
 
 .btn-primary {
-    border-color: yellowgreen;
+    border-color: #CEF6D8;
     color: #fff;
-    background-color: yellowgreen;
+    background-color: #CEF6D8;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
@@ -356,9 +356,9 @@ fieldset[disabled] .btn-default.active {
 .btn-primary:active,
 .btn-primary.active,
 .open > .dropdown-toggle.btn-primary {
-    border-color: limegreen;
+    border-color: #CEF6D8;
     color: #fff;
-    background-color: limegreen;
+    background-color: #CEF6D8;
 }
 
 .btn-primary:active,
@@ -385,12 +385,12 @@ fieldset[disabled] .btn-primary:active,
 .btn-primary.disabled.active,
 .btn-primary[disabled].active,
 fieldset[disabled] .btn-primary.active {
-    border-color: yellowgreen;
-    background-color: yellowgreen;
+    border-color: #CEF6D8;
+    background-color: #CEF6D8;
 }
 
 .btn-primary .badge {
-    color: yellowgreen;
+    color: #CEF6D8;
     background-color: #fff;
 }
 
@@ -427,11 +427,11 @@ img::-moz-selection {
 }
 
 .text-primary {
-    color: yellowgreen;
+    color: #CEF6D8;
 }
 
 .bg-primary {
-    background-color: yellowgreen;
+    background-color: #CEF6D8;
 }
 
 /* Full-width inputs */
