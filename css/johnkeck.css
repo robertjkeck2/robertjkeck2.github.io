@@ -1,0 +1,22 @@
+body {
+    background-color: #fafafa;
+    font-family: "Optima";
+}
+
+.main {
+  width: 675px;
+  height: 400px;
+  position: absolute;
+  left: 50%;
+  top: 45%;
+  transform: translate(-50%, -50%);
+}
+
+a {
+  text-align: right;
+  font-size: 15px;
+}
+
+span {
+  font-size: 14px;
+}
