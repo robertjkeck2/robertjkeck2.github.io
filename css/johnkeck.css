@@ -4,8 +4,8 @@ body {
 }
 
 .main {
-  width: 675px;
-  height: 400px;
+  max-width: 675px;
+  max-height: 400px;
   position: absolute;
   left: 50%;
   top: 45%;
@@ -19,4 +19,12 @@ a {
 
 span {
   font-size: 14px;
+}
+
+@media screen and (max-width: 481px) {
+  .main {
+    top: 35%;
+    left: 40%;
+    right: -10%;
+  }
 }
