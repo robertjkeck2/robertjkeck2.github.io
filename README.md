@@ -1,5 +1,5 @@
-# RobertJohnKeck.com
+# jkck.co
 
 ## Personal website for John Keck
 
-https://robertjohnkeck.com
+https://jkck.co
